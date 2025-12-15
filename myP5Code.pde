@@ -12,8 +12,13 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
+ellipse(200,120,470,550); // head
 
-  
+line(100,367,97,400); //neck left
+line(300,367,303,400); // neck right
+
+rect(175,0,60,190)
+line(175,190,160, 215);
 
 }
 
