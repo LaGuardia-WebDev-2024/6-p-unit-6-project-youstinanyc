@@ -19,7 +19,7 @@ html{
 
 #myCanvas {
   border-radius: 30px;
-  border: 15px double rgb(0, 0, 0);
+  border: 15px solid rgb(66, 4, 82);
 }
 
 .container{
@@ -37,7 +37,7 @@ html{
   width: 400px;
   object-fit: cover;
   border-radius: 30px;
-  border: 15px double rgb(0, 0, 0);
+  border: 15px solid rgb(0, 0, 0);
 }
 
 h2{

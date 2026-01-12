@@ -56,6 +56,14 @@ ellipse(315,85,15,15);
 
 arc(200,200,200,200)
 
+line(20,144,16,290)
+line(50,154,48,322)
+line(80,158,80,350)
+line(125,154,128,375)
+line(151,144,155,211)
+
+ellipse()
+
 }
 
 //🟡Extra FUN Features Ms. Hall Added
