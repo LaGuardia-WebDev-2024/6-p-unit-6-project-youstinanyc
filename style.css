@@ -9,6 +9,7 @@ body {
     #1E7BC9 75%, /* Green ends at 75% */
     #B121B6 85%, /* Yellow starts at 75% */
     #DD133B 100% /* Yellow ends at 100% */
+    
   );
 }
 
@@ -25,7 +26,7 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: rgb(27, 55, 146);
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 60px;
@@ -37,7 +38,7 @@ html{
   width: 400px;
   object-fit: cover;
   border-radius: 30px;
-  border: 15px solid rgb(0, 0, 0);
+  border: 15px solid rgb(106, 41, 126);
 }
 
 h2{
